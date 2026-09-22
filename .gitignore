@@ -1,8 +1,7 @@
-# Build
-build
+*
 
-# West files
-.west
-deps
-project_layout.txt
-.cache
+!app/
+!app/**
+!README.md
+!west.yml
+!.gitignore
